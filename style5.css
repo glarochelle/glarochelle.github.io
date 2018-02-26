@@ -17,7 +17,7 @@ body {text-align: center;
 	font-size: 50px;
 	color:white;
 	margin:200px;}
-
+a {color:white;}
  a:visited { color:white; }	
   a:hover { color:yellow; }	
 
