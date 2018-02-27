@@ -13,7 +13,7 @@ h1 {
 
 body {text-align: center;
 	background: url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg");
-	background:center;
+	background-position:center;
 	font-family: 'Nunito', sans-serif;
 	font-size: 50px;
 	color:white;
