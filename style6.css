@@ -2,25 +2,50 @@ title {text-align: center;
 	height: 200px;
 	width: 200px;}
 
-head{text-align: center;
+h1 {
+ 
  font-family: 'Nunito', sans-serif;
- background-image:url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg") }
+ font-size:  80px;
+ color:whit;e
+   }
 
-h1 {text-align: center;
- font-family: 'Nunito', sans-serif;
- background-image:url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg") 
- font-size:  50px;
- font-color:yellow;
-    margin-top: 100px;}
+ h1:hover {color:#e4b4e4;}
 
-h2 { text-align: center;
- font-family: 'Nunito', sans-serif;
- font-size:  50px;
-    margin-top: 200px; }
+ img {text-align:center;
+	 border: 5px solid white;
+	 width:350px;
+	 height:350px;
+	 background-position: center;}
+
 
 body {text-align: center;
-	background-image:url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg") 
-	font-family: 'Nunito', sans-serif;
-	font-size: 50px;
-	font-color:yellow;
-	margin:200px;}
+	background: url("https://bonexpose.com/wp-content/uploads/2015/06/Contact-Us.jpg"); 
+	background-position: center;
+	background-size:cover;
+font-size: 25px;
+	color:orange;
+	margin:250px;
+	border:500px 0px 500px 0px 500px 0px 500px 0px 500px 0px 500px;
+	font-family: 'Nunito', sans-serif;}
+
+
+
+
+a {color:white;}
+a:link {color:white;}
+ a:visited { color:orange; }	
+  a:hover { color:#e4b4e4; }	
+
+  .money:hover {color:#e4b4e4;}
+  .taylor:hover {color:#e4b4e4;}
+  .love:hover {color: #e4b4e4;}
+  .photo:hover {color:#e4b4e4;}
+  .me:hover {color:#e4b4e4;}
+  .lgbtq:hover {color:#e4b4e4 }
+  .guys:hover {color:#e4b4e4;}
+  .woc:hover {color:#e4b4e4;}
+  .bigchop:hover {color: #e4b4e4;}
+  .pp:hover {color:#e4b4e4;}
+  .whitemen:hover {color:#e4b4e4;}
+  .guyshate:hover {color:#e4b4e4 }
+  .lizzo:hover {color:#e4b4e4;}
