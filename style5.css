@@ -3,24 +3,43 @@ title {text-align: center;
 	width: 200px;}
 
 h1 {
-  text-align: center;
+ 
  font-family: 'Nunito', sans-serif;
- font-size:  50px;
+ font-size:  80px;
  color:white;
-    margin-top: 200px;}
+   }
 
- h1:hover {color:yellow;}
+ h1:hover {color:#FDFD8E;}
+
+ img {text-align:center;
+	 border: 5px solid white;
+	 border-radius:50%;
+	 width:200px;
+	 height:200px;
+	 background-position: center;}
+
 
 body {text-align: center;
-	background: url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg");
-	background-position:center;
-	font-family: 'Nunito', sans-serif;
-	font-size: 50px;
+	background: url("https://www.pulseheadlines.com/wp-content/uploads/2016/08/Sunflower-reorientation.jpg"); 
+	background-position: center;
+	background-size:cover;
+font-size: 40px;
 	color:white;
-	margin:200px;}
-a {color:white;}
- a:visited { color:white; }	
-  a:hover { color:yellow; }	
+	margin:250px;
+	border:300px 0px 300px 0px 300px 0px 300px 0px 300px 0px 300px;
+	font-family: 'Nunito', sans-serif;}
 
-  .articles:hover {color:purple;}
-  .photos:hover {color:yellow;}
+
+
+
+a {color:white;}
+a:link {color:white;}
+ a:visited { color:white; }	
+  a:hover { color:#FDFD8E; }	
+
+  .articles:hover {color:#FDFD8E;}
+  .photos:hover {color:#FDFD8E;}
+  .food:hover {color: #FDFD8E;}
+  .travel:hover {color:#FDFD8E;}
+  .aboutme:hover {color:#FDFD8E;}
+  .contactme:hover {color:#FDFD8E }
