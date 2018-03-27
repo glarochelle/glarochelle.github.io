@@ -14,9 +14,8 @@ h1 {
 
  img {text-align:left;
 	 border: 5px solid white;
-	 border-radius:50%;
 	 width:100px;
-	 height:100px;
+	 height:auto;
 	 background-position: left;}
 
 h2 {
@@ -73,7 +72,7 @@ a:link {color:red;}
 
 .snake{
 height: auto;
-width:400px;
+width:300px;
 }
 .lawrence { height:auto;
 width:400px; 
